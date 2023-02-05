@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+            "title": "project 01 ",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est vero sapiente magnam porro. Culpa necessitatibus animi esse, iusto",
+            "image": "images/fingerPrint.svg"
+        },
+        {
+            "title": "project 02 ",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est vero sapiente magnam porro. Culpa necessitatibus animi esse, iusto",
+            "image": "images/fingerPrint.svg"
+        },
+        {
+            "title": "project 03 ",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est vero sapiente magnam porro. Culpa necessitatibus animi esse, iusto",
+            "image": "images/fingerPrint.svg"
+        },
+        {
+            "title": "project 04 ",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est vero sapiente magnam porro. Culpa necessitatibus animi esse, iusto",
+            "image": "images/fingerPrint.svg"
+        }
+    ]
+}

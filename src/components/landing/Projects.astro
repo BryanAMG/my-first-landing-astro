@@ -1,0 +1,20 @@
+---
+import { projects } from "../../config/projects.json";
+console.log(projects);
+---
+
+<h2 class="font-bold text-4xl mt-4 text-center">Projects</h2>
+
+{
+    projects.map((project) => (
+        <article class="grid grid-cols-1 gap-5 md:grid-cols-2 place-items-center text-center pl-10">
+            <div>
+                <h2 class="text-2xl font-bold my-3">{project.title}</h2>
+                <p class="my-2">{project.description}</p>
+            </div>
+            <div>
+                <img src={project.image} alt="" class="w-72 " />
+            </div>
+        </article>
+    ))
+}
